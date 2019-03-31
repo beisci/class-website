@@ -1,5 +1,5 @@
 name: "CLASS Study"
-exclude: ["*.*~"]
+exclude: ["*.*~", "instructions.txt"]
 output_dir: "docs"
 navbar:
   title: <span class="fa fa-home"></span> Home
