@@ -1,0 +1,17 @@
+name: "CLASS Study"
+exclude: ["*.*~"]
+output_dir: "docs"
+navbar:
+  title: <span class="fa fa-home"></span> Home
+  right:
+#    - icon: fa-newspaper
+#      text: "News"
+#      href: news.html
+    - icon: fa-users
+      text: "Team"
+      href: team.html  
+
+output:
+  html_document:
+    include:
+      after_body: footer.html

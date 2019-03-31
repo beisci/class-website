@@ -1,0 +1,14 @@
+# History and RStudio files
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user
+.Rproj.user/
+# emacs files
+*~
+
+# from windows
+desktop.ini
+
+#from mac
+.DS_Store
